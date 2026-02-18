@@ -3,7 +3,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Business Intelligence](https://img.shields.io/badge/Type-BI%20Dashboard-blue)]()
 [![Dashboard](https://img.shields.io/badge/Tool-Power%20BI-yellow)]()
-[![Data Modeling](https://img.shields.io/badge/Model-Star%20Schema-orange)]()
 [![KPIs](https://img.shields.io/badge/Focus-KPIs%20%7C%20Revenue%20%7C%20Risk-success)]()
 [![Insights](https://img.shields.io/badge/Outcome-Decision%20Support-brightgreen)]()
 
